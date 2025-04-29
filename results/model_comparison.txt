@@ -1,0 +1,44 @@
+Model Comparison Results:
+
+=== random_forest ===
+Accuracy: 0.7815
+Precision: 0.6863
+Recall: 0.6731
+F1 Score: 0.6796
+ROC AUC: 0.8232
+
+=== xgboost ===
+Accuracy: 0.7815
+Precision: 0.7021
+Recall: 0.6346
+F1 Score: 0.6667
+ROC AUC: 0.8129
+
+=== catboost ===
+Accuracy: 0.7748
+Precision: 0.6800
+Recall: 0.6538
+F1 Score: 0.6667
+ROC AUC: 0.8036
+
+=== knn ===
+Accuracy: 0.7550
+Precision: 0.6531
+Recall: 0.6154
+F1 Score: 0.6337
+ROC AUC: 0.8013
+
+=== svm ===
+Accuracy: 0.7682
+Precision: 0.6889
+Recall: 0.5962
+F1 Score: 0.6392
+ROC AUC: 0.8133
+
+=== logistic_regression ===
+Accuracy: 0.7351
+Precision: 0.6364
+Recall: 0.5385
+F1 Score: 0.5833
+ROC AUC: 0.8190
+
